@@ -1,0 +1,5 @@
+Arguments vs Parameters
+Overloading for Functions EX: add(1,2) and add(1.0,2) or add(1,2,3)
+function declaration
+function definition
+how to call a function
